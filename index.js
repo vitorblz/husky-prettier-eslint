@@ -1,4 +1,4 @@
 console.log('teste');
-const teste = aaaa => console.log('object');
+const teste = aaaa => console.log('object 1');
 
 console.log('teste2');
